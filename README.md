@@ -34,13 +34,13 @@ The database includes the following tables:
 
 The image below shows the database tables and their relationships:
 
-![Table Structure](images/db_img1.png)
-![Table Structure](images/db_img2.png)
-![Table Structure](images/db_img3.png)
-![Table Structure](images/db_img4.png)
-![Table Structure](images/db_img5.png)
-![Table Structure](images/db_img6.png)
-![Table Structure](images/db_img7.png)
+![Table Structure](db_img1.png)
+![Table Structure](db_img2.png)
+![Table Structure](db_img3.png)
+![Table Structure](db_img4.png)
+![Table Structure](db_img5.png)
+![Table Structure](db_img6.png)
+![Table Structure](db_img7.png)
 
 
 
@@ -50,6 +50,6 @@ The image below shows the database tables and their relationships:
 
 The screenshot below shows that the `/api/schools` GET endpoint is working correctly:
 
-![School Endpoint Test](images/test_1img.png)
+![School Endpoint Test](test_1img.png)
 
 All other endpoints have also been tested and are working properly.
